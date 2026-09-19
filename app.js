@@ -1,0 +1,2 @@
+document.querySelectorAll('[data-type]').forEach(link=>link.addEventListener('click',()=>{document.getElementById('client-type').value=link.dataset.type;}));
+document.getElementById('inquiry').addEventListener('submit',event=>{event.preventDefault();document.getElementById('form-status').textContent='Your preview is complete. No information was sent or saved. Consultation requests will open when the business launches.';});
