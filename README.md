@@ -15,7 +15,7 @@ Open `index.html` in a browser. The site uses plain HTML, CSS, and JavaScript an
 
 ## Launch status
 
-This is a pre-launch website. The consultation form validates fields but does not send or store information. Connect a real inquiry endpoint or booking service before enabling submissions. The page explicitly identifies this limitation.
+The consultation form posts to Formspree, which emails each inquiry to travis@travisfitnessconsulting.com. Replace `FORM_ID` in the form's `action` in `index.html` with the ID from the Formspree dashboard.
 
 Business credentials, professional relationships, legal business name, and final contact details should be confirmed before public launch. No affiliation with Life Time, Equinox, or Aman is claimed.
 
