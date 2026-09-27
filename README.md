@@ -11,9 +11,7 @@ Open `index.html` in a browser. The site uses plain HTML, CSS, and JavaScript an
 - `index.html`: page content and consultation form
 - `style.css`: responsive styles
 - `app.js`: service selection and form preview behavior
-- `travis-hero.webp`: front-page portrait of Travis, AI-styled (suit and setting) from his own photo; the studio shown is not a Travis-owned facility
-- `travis.webp`: Meet Travis portrait (background removed from his photo)
-- `hero.png`: previous AI-generated studio image, no longer used on the page
+- `hero.png`: AI-generated conceptual fitness studio image; it does not depict a Travis-owned facility
 
 ## Launch status
 
